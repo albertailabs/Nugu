@@ -19,7 +19,7 @@ NUGU 서비스 이용하기
 로봇 대화시스템 만들기
 --
 
-- [로봇 대화시스템 만들기 자세히 보기](https://github.com/albertailabs/Social-Index)
+- [로봇 대화시스템 만들기](https://github.com/albertailabs/Social-Index)
 
 
 유의사항
