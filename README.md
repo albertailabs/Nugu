@@ -12,10 +12,10 @@
   - [Wi-fi 연결하기 자세히 보기](https://github.com/albertailabs/Wi-fi)
 
 
-albertAI의 로봇대화시스템 만들기
+로봇 대화시스템 만들기
 --
 
-- [대화 시스템 만들기 자세히 보기](https://github.com/albertailabs/Social-Index)
+- [로봇 대화시스템 만들기 자세히 보기](https://github.com/albertailabs/Social-Index)
 
 
 유의사항
