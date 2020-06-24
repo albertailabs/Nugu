@@ -16,7 +16,7 @@ NUGU 서비스 이용하기
 --
 - [NUGU 서비스 자세히 보기](https://github.com/albertailabs/Social-NuguService)
 
-로봇 대화시스템 만들기
+나만의 음성 질문과 답변 만들기  
 --
 
 - [로봇 대화시스템 만들기](https://github.com/albertailabs/Social-Index)
