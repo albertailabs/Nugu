@@ -9,7 +9,7 @@
   
 - 로봇과 앱 연결하기
   - 스마트폰에서 NUGU앱의 접근 권한(마이크/위치/사진)을 허용해야 NUGU 앱을 사용하실 수 있습니다.
-  - [연결하기 자세히 보기](https://github.com/albertailabs/Wi-fi)
+  - [Wi-fi 연결하기 자세히 보기](https://github.com/albertailabs/Wi-fi)
 
 
 유의사항
