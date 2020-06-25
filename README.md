@@ -1,6 +1,8 @@
 # Nugu Mode
 음성 명령으로 NUGU 서비스를 이용하거나(날씨, 시간, 음악 재생 등) 알버트AI를 제어할 수 있습니다(앞으로 가, “왼쪽으로 돌아 등)
 
+[![SERVICE](http://img.youtube.com/vi/abWH7S6JZMQ/0.jpg)](https://youtu.be/abWH7S6JZMQ)
+
 시작하기
 --
 - 앱 다운로드 하기
