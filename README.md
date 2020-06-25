@@ -31,8 +31,18 @@ NUGU 서비스 이용하기
 
 나만의 음성 질문과 답변 만들기  
 --
-
-- [로봇 대화시스템 만들기](https://github.com/albertailabs/Social-Index)
+- 디바이스 컨트롤러 
+   - Mobile App을 통해 ‘텍스트 명령’을 이용할 수 있습니다. 디바이스에 직접 음성명령을 내리는 것과 동일한 효과와 결과를 보여줍니다.
+   - [디바이스 컨트롤러 사용방법](https://github.com/nugualbert/SocialService_DeviceControl)
+- My Q&A
+   - Mobile App에서 나만의 음성 명령을 등록하여 로봇에서 즉시 확인할 수 있습니다.
+   - [My Q&A 사용방법](https://github.com/nugualbert/SocialService_MyQA)
+- NUGU 서비스 
+   - 대화시나리오를 풍부하게 도와주는 NUGU 서비스 활용하기
+   - [NUGU 서비스 사용방법](https://github.com/nugualbert/SocialService_NuguService) 
+- NUGU play Builder 
+   - 대화시스템 통합 개발 환경을 GUI 기반으로 제공함으로써, 사용자들은 쉽게 자신들의 서비스를 개발할 수 있습니다. 
+   - NUGU Play Builder 사용방법 (오픈예정)
 
 
 유의사항
