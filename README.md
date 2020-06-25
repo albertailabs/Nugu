@@ -6,7 +6,6 @@
 - 앱 다운로드 하기
   - 구글 플레이 스토어나 앱스토어에서 ‘NUGU’를 검색하여 NUGU 앱을 다운로드하실 수 있습니다.
   - [NUGU 앱 다운로드](https://play.google.com/store/apps/details?id=com.skt.aladdin)
-  
 - 앱과 로봇 연결하기 
   - [Wi-fi 연결하기 자세히 보기](https://github.com/albertailabs/Wi-fi)
 
